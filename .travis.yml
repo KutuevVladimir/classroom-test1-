@@ -1,1 +1,1 @@
-script: echo "Here:$MY_SECRET"
+script: true
